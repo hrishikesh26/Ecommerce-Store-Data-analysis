@@ -1,4 +1,4 @@
-# Ecommerce Store Data Analysis with importatn key performance indicators (KPI).
+# Ecommerce Store Data Analysis with important key performance indicators (KPI).
 
 ### 👉 EDA description - 
 - This project is an ecommerce store data analysis using Python and Jupyter Notebook.
